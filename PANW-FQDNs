@@ -1,0 +1,8 @@
+http://ocsp.paloaltonetworks.com
+http://crl.paloaltonetworks.com
+http://ocsp.godaddy.com
+https://api.paloaltonetworks.com
+https://apitrusted.paloaltonetworks.com
+certificatetrusted.paloaltonetworks.com
+certificate.paloaltonetworks.com
+*.gpcloudservice.com
